@@ -1,0 +1,3 @@
+I like Python!
+I am a student!
+Students enjoy Python!
